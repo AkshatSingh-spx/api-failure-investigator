@@ -27,7 +27,7 @@ Fill this table only after testing. Do not invent scores.
 
 ## Findings
 After testing, record concrete observations here:
-- Version 1:
+- Version 1: 
 - Version 2:
 - Version 3:
 - Most useful improvement:
