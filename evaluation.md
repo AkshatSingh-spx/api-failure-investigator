@@ -21,7 +21,7 @@ Fill this table only after testing. Do not invent scores.
 
 | Version | Evidence accuracy /5 | Diagnostic usefulness /5 | Uncertainty handling /5 | Output structure /5 | Safety /5 | Weighted total /5 |
 |---|---:|---:|---:|---:|---:|---:|
-| Version 1 | TBD | TBD | TBD | TBD | TBD | TBD |
+| Version 1 | 30% | TBD | TBD | TBD | TBD | TBD |
 | Version 2 | TBD | TBD | TBD | TBD | TBD | TBD |
 | Version 3 | TBD | TBD | TBD | TBD | TBD | TBD |
 
